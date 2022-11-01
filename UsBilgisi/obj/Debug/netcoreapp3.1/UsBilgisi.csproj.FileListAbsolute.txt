@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.exe
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.deps.json
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.runtimeconfig.json
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.runtimeconfig.dev.json
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.dll
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\bin\Debug\netcoreapp3.1\UsBilgisi.pdb
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.AssemblyInfo.cs
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.dll
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.pdb
+C:\Users\hp\Desktop\BorusanMulakat\UsBilgisi\obj\Debug\netcoreapp3.1\UsBilgisi.genruntimeconfig.cache
